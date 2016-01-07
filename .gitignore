@@ -15,5 +15,8 @@
 /vendor/
 /web/bundles/
 
-# add PhpStrom folder configuration
+# add PhpStrom Project configuration
 .idea/
+
+# add NetBeans Project configuration  
+/nbproject/*
